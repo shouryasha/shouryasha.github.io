@@ -5,11 +5,11 @@
 
 ## Experience
 * HondaIndiaPower Products Ltd. Intern – Network Team, Core IT Department (July 2025 - December 2025)
-. Worked in the Core IT Department, Network Team, focusing on network administration and support.
-. Assisted in configuring and maintaining routers, switches, and firewalls to ensure smooth connectivity.
-. Supported network monitoring and troubleshooting to minimize downtime and improve system reliability.
-. Gained exposure to LAN/WAN setup, IP addressing, and network security practices.
-. Collaborated with the IT team to implement infrastructure improvements and document processes
+* Worked in the Core IT Department, Network Team, focusing on network administration and support.
+* Assisted in configuring and maintaining routers, switches, and firewalls to ensure smooth connectivity.
+* Supported network monitoring and troubleshooting to minimize downtime and improve system reliability.
+* Gained exposure to LAN/WAN setup, IP addressing, and network security practices.
+* Collaborated with the IT team to implement infrastructure improvements and document processes
 
 ## Projects
 # Multiple Bank Management System | Software Engineering and Project Management (Jan2022-Nov2022)
