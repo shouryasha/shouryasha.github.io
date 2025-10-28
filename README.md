@@ -1,4 +1,3 @@
-README.md
 ## Certifications
 *CEH V13(Certified)EC-Council(Sept 2025)
 *GoogleCybersecurity Professional Certificate | Coursera Google(Jan 2025)
