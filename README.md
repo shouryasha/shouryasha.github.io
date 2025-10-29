@@ -1,96 +1,47 @@
----
-layout: default
-title: "Shourya Sharma - Resume"
----
+## Certifications
+* CEH V13(Certified)|EC-Council.(Sept 2025)
+* GoogleCybersecurity Professional Certificate |Coursera Google.(Jan 2025)
+* GoogleCybersecurity Professional Certificate | Courser
 
-# 👋 Hi, I'm **Shourya Sharma**
-Final Year B.Tech Student at SRM Institute of Science and Technology (Kattankulathur)  
-Specialization: **Computer Science and Engineering – Cyber Security**  
-📧 Email: your.email@example.com | 🌐 [GitHub](https://github.com/yourusername) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+## Experience
+# HondaIndiaPower Products Ltd. Intern – Network Team, Core IT Department.(July 2025 - December 2025)
+* Worked in the Core IT Department, Network Team, focusing on network administration and support.
+* Assisted in configuring and maintaining routers, switches, and firewalls to ensure smooth connectivity.
+* Supported network monitoring and troubleshooting to minimize downtime and improve system reliability.
+* Gained exposure to LAN/WAN setup, IP addressing, and network security practices.
+* Collaborated with the IT team to implement infrastructure improvements and document processes
 
----
+## Projects
+# Multiple Bank Management System | Software Engineering and Project Management: (Jan2022-Nov2022)
+* Collaborated with a team to design an inte-grated system for bank operations, focusing on user authentication,
+transaction management, and data security.
+* Utilized C++ and SQL to create and optimize the database management processes, enhancing security protocols.
+# Url Shortener - Python: (Jul 2023 - Dec 2023)
+* Developed a web-based application to shorten URLs, implementing user-friendly features and
+security measures to preventmisuse.
+* Leveraged Python to build the backend an manage data effectively.
+# Cybersecurity Game: (Jul 2024 - Dec 2024)
+* Created an interactive game aimed at increasing awareness of cybersecurity principles
+among users.
+* Implement, various security earios and hreats and incident response.
+# Adversarial Robustness in AI-Driven Malware Detection System: (Jan 2025 - May 2025)
+* Worked on a research paper and prototype regarding how adversarial robustness in modern-day AI-based malware
+detection tools can be improved through different data samples and model training methods, as well as the
+potential methods that can be implemented in such systems used on a large scale.
 
-## 🎓 Education
-- **SRM Institute of Science and Technology – Kattankulathur**  
-  *B.Tech in Computer Science and Engineering (Cyber Security)* — **2021 – 2025**
+## Skills
+* Programming Languages: C++, Python
+* Network & Security Tools: Nmap, Wireshark, Burp Suite, Security Information and Event Management (SIEM) Tools
+* Database Management: SQL
+* Operating Systems: Linux
+* Cybersecurity Techniques: Security Hardening, Incident Response, Threat Detection and Mitigation, Risk Assessment, and
+Vulnerability Management
+* Security Frameworks & Controls: Implementation of security policies, standards, and best practices aligned with industry
+frameworks (e.g., NIST, ISO 27001)
+* Infrastructure Security: Firewall Configuration, Intrusion Detection System (IDS) Evasion, and Network Security Monitoring
+* Professional & Analytical Skills: Strong Problem-Solving, Team Collaboration, and Analytical Thinking
 
-- **Ryan International School – Greater Noida**  
-  *Class XII (CBSE) – PCM* — **2021**
-
-- **Cambridge School – Greater Noida**  
-  *Class X (CBSE)* — **2019**
-
----
-
-## 💼 Experience
-
-### **Honda India Power Products Ltd. – Intern (Network Team, Core IT Department)**  
-📅 *July 2025 – December 2025*  
-- Worked in the Core IT Department, Network Team, focusing on network administration and support.  
-- Assisted in configuring and maintaining routers, switches, and firewalls.  
-- Supported network monitoring and troubleshooting to minimize downtime.  
-- Gained exposure to LAN/WAN setup, IP addressing, and network security practices.  
-- Collaborated with the IT team to implement infrastructure improvements and document processes.  
-
----
-
-## 🧠 Projects
-
-### **Multiple Bank Management System**  
-🕒 *Jan 2022 – Nov 2022*  
-- Designed an integrated banking system focusing on authentication, transaction management, and data security.  
-- Used **C++** and **SQL** for backend and database optimization.  
-
-### **URL Shortener – Python**  
-🕒 *Jul 2023 – Dec 2023*  
-- Developed a web app to shorten URLs with security features to prevent misuse.  
-- Used **Python** for backend logic and data management.  
-
-### **Cybersecurity Awareness Game**  
-🕒 *Jul 2024 – Dec 2024*  
-- Created an interactive game to teach users about cybersecurity threats and responses.  
-- Implemented different threat scenarios to simulate real-world attacks.  
-
-### **Adversarial Robustness in AI-Driven Malware Detection Systems**  
-🕒 *Jan 2025 – May 2025*  
-- Conducted research on improving adversarial robustness in AI-based malware detection.  
-- Developed prototypes and model training methods to enhance detection accuracy.  
-
----
-
-## 🏅 Certifications
-- **CEH v13 (Certified Ethical Hacker)** – EC-Council *(Sept 2025)*  
-- **Google Cybersecurity Professional Certificate** – Coursera *(Jan 2025)*  
-
----
-
-## 🛠 Skills
-
-**Programming Languages:**  
-C++, Python  
-
-**Network & Security Tools:**  
-Nmap, Wireshark, Burp Suite, SIEM Tools  
-
-**Database Management:**  
-SQL  
-
-**Operating Systems:**  
-Linux  
-
-**Cybersecurity Techniques:**  
-Security Hardening, Incident Response, Threat Detection, Risk Assessment, Vulnerability Management  
-
-**Frameworks & Controls:**  
-Implementation aligned with **NIST**, **ISO 27001**, and other security standards  
-
-**Infrastructure Security:**  
-Firewall Configuration, IDS Evasion, Network Security Monitoring  
-
-**Professional & Analytical Skills:**  
-Strong Problem-Solving, Team Collaboration, and Analytical Thinking  
-
----
-
-## 📜 Footer
-*This site is built using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).*
+## Education
+* SRM IST-Kattankulathur - B.Tech · Computer Science and Engineering - Cyber Security (2025)
+* Ryan International School - Class XII - CBSE · PCM · Greater Noida(2021)
+* Cambridge School - Class X - CBSE · Greater Noida(2019)
