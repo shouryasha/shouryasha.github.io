@@ -1,10 +1,10 @@
 ## Certifications
-* CEH V13(Certified)EC-Council(Sept 2025)
-* GoogleCybersecurity Professional Certificate | Coursera Google(Jan 2025)
+* CEH V13(Certified)EC-Council                                                                                                                                                   (Sept 2025)
+* GoogleCybersecurity Professional Certificate |Coursera Google                                                                                                                   (Jan 2025)
 * GoogleCybersecurity Professional Certificate | Courser
 
 ## Experience
-# HondaIndiaPower Products Ltd. Intern – Network Team, Core IT Department (July 2025 - December 2025)
+# HondaIndiaPower Products Ltd. Intern – Network Team, Core IT Department                                                                                          (July 2025 - December 2025)
 * Worked in the Core IT Department, Network Team, focusing on network administration and support.
 * Assisted in configuring and maintaining routers, switches, and firewalls to ensure smooth connectivity.
 * Supported network monitoring and troubleshooting to minimize downtime and improve system reliability.
