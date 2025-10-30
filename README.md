@@ -1,6 +1,7 @@
 ## Certifications
 * CEH V13 Certified: EC-Council(Sept 2025)
 * Google Cybersecurity Professional Certificate: Coursera& Google(Jan 2025)
+* Fortinet Certified Fundamentals in Cybersecurity: (Nov 2023)
 
 ## Experience
 ### HondaIndiaPower Products Ltd. Intern – Network Team, Core IT Department.(July 2025 - December 2025)
